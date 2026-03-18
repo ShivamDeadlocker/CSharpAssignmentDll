@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Assignment_11 (Collection and Generics)", "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_11 (Collection and Generics)\", "{7DD3D5A2-9993-4051-B04D-3C0E93563764}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63192"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_11 (Collection and Generics)\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63192\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63192"
+		Release.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_11 (Collection and Generics)\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63192\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63192"
+		SlnRelativePath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_11 (Collection and Generics)\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericLib", "GenericLib\GenericLib.csproj", "{FAB39005-C1B8-42B6-80D8-06282A1B1F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWithList", "EmployeeWithList\EmployeeWithList.csproj", "{CCD9370F-8C2A-4BD1-A12C-0665A19086D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceOrderManagement", "ECommerceOrderManagement\ECommerceOrderManagement.csproj", "{D6759428-97D2-485A-853F-59D3D0E07BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericReportGenerator", "GenericReportGenerator\GenericReportGenerator.csproj", "{EC441F13-2350-4B65-ADCF-A1EADB03FF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD3D5A2-9993-4051-B04D-3C0E93563764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD3D5A2-9993-4051-B04D-3C0E93563764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD3D5A2-9993-4051-B04D-3C0E93563764}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD3D5A2-9993-4051-B04D-3C0E93563764}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{FAB39005-C1B8-42B6-80D8-06282A1B1F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB39005-C1B8-42B6-80D8-06282A1B1F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB39005-C1B8-42B6-80D8-06282A1B1F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB39005-C1B8-42B6-80D8-06282A1B1F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD9370F-8C2A-4BD1-A12C-0665A19086D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD9370F-8C2A-4BD1-A12C-0665A19086D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD9370F-8C2A-4BD1-A12C-0665A19086D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD9370F-8C2A-4BD1-A12C-0665A19086D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6759428-97D2-485A-853F-59D3D0E07BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6759428-97D2-485A-853F-59D3D0E07BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6759428-97D2-485A-853F-59D3D0E07BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6759428-97D2-485A-853F-59D3D0E07BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC441F13-2350-4B65-ADCF-A1EADB03FF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC441F13-2350-4B65-ADCF-A1EADB03FF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC441F13-2350-4B65-ADCF-A1EADB03FF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC441F13-2350-4B65-ADCF-A1EADB03FF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

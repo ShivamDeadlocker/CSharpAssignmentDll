@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Assignment_9 (Interface)", "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_9 (Interface)\", "{B00EE4D1-A3AA-4A00-8A67-E90EB273E5ED}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_57335"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_9 (Interface)\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57335\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_57335"
+		Release.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_9 (Interface)\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57335\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57335"
+		SlnRelativePath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_9 (Interface)\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchStore", "WatchStore\WatchStore.csproj", "{B95EABEB-B42D-41CC-8991-59D648F469EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankSystem", "BankSystem\BankSystem.csproj", "{BECD92E5-55C4-4103-B6D4-4B6FE5E12D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SWS", "SWS\SWS.csproj", "{DEFF8634-DB13-42C7-9356-3D9F5F46B3E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00EE4D1-A3AA-4A00-8A67-E90EB273E5ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00EE4D1-A3AA-4A00-8A67-E90EB273E5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00EE4D1-A3AA-4A00-8A67-E90EB273E5ED}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00EE4D1-A3AA-4A00-8A67-E90EB273E5ED}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{B95EABEB-B42D-41CC-8991-59D648F469EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95EABEB-B42D-41CC-8991-59D648F469EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95EABEB-B42D-41CC-8991-59D648F469EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95EABEB-B42D-41CC-8991-59D648F469EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECD92E5-55C4-4103-B6D4-4B6FE5E12D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECD92E5-55C4-4103-B6D4-4B6FE5E12D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECD92E5-55C4-4103-B6D4-4B6FE5E12D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECD92E5-55C4-4103-B6D4-4B6FE5E12D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFF8634-DB13-42C7-9356-3D9F5F46B3E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFF8634-DB13-42C7-9356-3D9F5F46B3E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFF8634-DB13-42C7-9356-3D9F5F46B3E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFF8634-DB13-42C7-9356-3D9F5F46B3E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

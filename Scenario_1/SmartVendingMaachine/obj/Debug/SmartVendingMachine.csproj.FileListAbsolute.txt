@@ -1,0 +1,5 @@
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Scenario_1\SmartVendingMaachine\bin\Debug\SmartVendingMaachine.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Scenario_1\SmartVendingMaachine\bin\Debug\SmartVendingMaachine.pdb
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Scenario_1\SmartVendingMaachine\obj\Debug\SmartVendingMachine.csprojResolveAssemblyReference.cache
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Scenario_1\SmartVendingMaachine\obj\Debug\SmartVendingMaachine.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Scenario_1\SmartVendingMaachine\obj\Debug\SmartVendingMaachine.pdb

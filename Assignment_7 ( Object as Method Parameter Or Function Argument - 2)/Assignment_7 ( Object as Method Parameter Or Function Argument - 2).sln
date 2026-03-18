@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Assignment_7 ( Object as Method Parameter Or Function Argument - 2)", "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_7 ( Object as Method Parameter Or Function Argument - 2)\", "{8D644994-779D-4858-AD32-CDC35BC24044}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49612"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_7 ( Object as Method Parameter Or Function Argument - 2)\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49612\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49612"
+		Release.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_7 ( Object as Method Parameter Or Function Argument - 2)\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49612\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49612"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpSal", "..\Assignment_7\EmpSal\EmpSal.csproj", "{E98B27EF-E602-4094-8539-9C3AE32274BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOrder", "..\Assignment_7\ProductOrder\ProductOrder.csproj", "{93CA4AEF-DB59-4072-9875-42F6C2BF8912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "..\Assignment_7\Student\Student.csproj", "{A95D24E4-7E21-4F08-A6CB-778A29F1FAB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaction", "..\Assignment_7\Transaction\Transaction.csproj", "{2D243865-DD73-494F-8720-FBCD0BBEE269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D644994-779D-4858-AD32-CDC35BC24044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D644994-779D-4858-AD32-CDC35BC24044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D644994-779D-4858-AD32-CDC35BC24044}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D644994-779D-4858-AD32-CDC35BC24044}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E98B27EF-E602-4094-8539-9C3AE32274BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98B27EF-E602-4094-8539-9C3AE32274BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98B27EF-E602-4094-8539-9C3AE32274BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98B27EF-E602-4094-8539-9C3AE32274BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93CA4AEF-DB59-4072-9875-42F6C2BF8912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CA4AEF-DB59-4072-9875-42F6C2BF8912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CA4AEF-DB59-4072-9875-42F6C2BF8912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CA4AEF-DB59-4072-9875-42F6C2BF8912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A95D24E4-7E21-4F08-A6CB-778A29F1FAB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95D24E4-7E21-4F08-A6CB-778A29F1FAB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95D24E4-7E21-4F08-A6CB-778A29F1FAB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95D24E4-7E21-4F08-A6CB-778A29F1FAB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D243865-DD73-494F-8720-FBCD0BBEE269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D243865-DD73-494F-8720-FBCD0BBEE269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D243865-DD73-494F-8720-FBCD0BBEE269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D243865-DD73-494F-8720-FBCD0BBEE269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

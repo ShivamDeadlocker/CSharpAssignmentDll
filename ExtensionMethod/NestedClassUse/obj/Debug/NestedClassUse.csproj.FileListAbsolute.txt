@@ -1,0 +1,5 @@
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\ExtensionMethod\NestedClassUse\obj\Debug\NestedClassUse.csprojResolveAssemblyReference.cache
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\ExtensionMethod\NestedClassUse\bin\Debug\NestedClassUse.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\ExtensionMethod\NestedClassUse\bin\Debug\NestedClassUse.pdb
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\ExtensionMethod\NestedClassUse\obj\Debug\NestedClassUse.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\ExtensionMethod\NestedClassUse\obj\Debug\NestedClassUse.pdb

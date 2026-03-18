@@ -1,0 +1,5 @@
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\PaymentGateway\bin\Debug\PaymentGateway.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\PaymentGateway\bin\Debug\PaymentGateway.pdb
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\PaymentGateway\obj\Debug\PaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\PaymentGateway\obj\Debug\PaymentGateway.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\PaymentGateway\obj\Debug\PaymentGateway.pdb

@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DelegateAndEvents(Using EventsArgs)", "D:\Shivam Prajapati (2026)\C#.NET\Practice\TopicWise\DelegateAndEvents(Using EventsArgs)\", "{6019EA35-FF52-49B6-8FAF-250A1845C92F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49939"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\TopicWise\DelegateAndEvents(Using EventsArgs)\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49939\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49939"
+		Release.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\TopicWise\DelegateAndEvents(Using EventsArgs)\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49939\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49939"
+		SlnRelativePath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\TopicWise\DelegateAndEvents(Using EventsArgs)\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoEncoderPublisher", "VideoEncoderPublisher\VideoEncoderPublisher.csproj", "{A9A6FE81-18CD-47A6-85FE-A1599CBF7354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6019EA35-FF52-49B6-8FAF-250A1845C92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6019EA35-FF52-49B6-8FAF-250A1845C92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6019EA35-FF52-49B6-8FAF-250A1845C92F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{6019EA35-FF52-49B6-8FAF-250A1845C92F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{A9A6FE81-18CD-47A6-85FE-A1599CBF7354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A6FE81-18CD-47A6-85FE-A1599CBF7354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A6FE81-18CD-47A6-85FE-A1599CBF7354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A6FE81-18CD-47A6-85FE-A1599CBF7354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

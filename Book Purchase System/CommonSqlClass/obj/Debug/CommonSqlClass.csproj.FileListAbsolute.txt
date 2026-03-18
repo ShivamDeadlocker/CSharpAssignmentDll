@@ -1,0 +1,5 @@
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Book Purchase System\CommonSqlClass\bin\Debug\CommonSqlClass.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Book Purchase System\CommonSqlClass\bin\Debug\CommonSqlClass.pdb
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Book Purchase System\CommonSqlClass\obj\Debug\CommonSqlClass.csprojResolveAssemblyReference.cache
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Book Purchase System\CommonSqlClass\obj\Debug\CommonSqlClass.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Book Purchase System\CommonSqlClass\obj\Debug\CommonSqlClass.pdb

@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Assignment_8", "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_8\", "{8203BBEB-E8CB-49E0-AB66-AC77E2F02D62}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63393"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_8\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63393\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63393"
+		Release.AspNetCompiler.PhysicalPath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_8\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63393\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63393"
+		SlnRelativePath = "D:\Shivam Prajapati (2026)\C#.NET\Practice\Assignment\Assignment_8\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem", "PayrollSystem\PayrollSystem.csproj", "{8FB3FDD0-DA22-44E9-B938-3EC2B0081A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce", "Ecommerce\Ecommerce.csproj", "{A0E9F4EA-F39C-492A-B8B7-99A502D8667A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TollManagemen", "TollManagemen\TollManagemen.csproj", "{941B0B1B-5D46-4E9D-8149-4405D4CAE9E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentGateway", "PaymentGateway\PaymentGateway.csproj", "{DC1A09DE-7335-455B-A834-CC4DCF2CDA0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMS", "HMS\HMS.csproj", "{B55D169B-C90D-48CC-8B2E-207A9A4FCEFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeClass", "ShapeClass\ShapeClass.csproj", "{EB53220B-274C-40CC-9A58-375467A5FF16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTT", "OTT\OTT.csproj", "{99ED05D3-DEFA-439A-B6BB-6175C50CD156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LPS", "LPS\LPS.csproj", "{2B81E9CE-3447-4029-B5A5-F59539C15FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8203BBEB-E8CB-49E0-AB66-AC77E2F02D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8203BBEB-E8CB-49E0-AB66-AC77E2F02D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8203BBEB-E8CB-49E0-AB66-AC77E2F02D62}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8203BBEB-E8CB-49E0-AB66-AC77E2F02D62}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8FB3FDD0-DA22-44E9-B938-3EC2B0081A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB3FDD0-DA22-44E9-B938-3EC2B0081A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB3FDD0-DA22-44E9-B938-3EC2B0081A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB3FDD0-DA22-44E9-B938-3EC2B0081A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E9F4EA-F39C-492A-B8B7-99A502D8667A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E9F4EA-F39C-492A-B8B7-99A502D8667A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E9F4EA-F39C-492A-B8B7-99A502D8667A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E9F4EA-F39C-492A-B8B7-99A502D8667A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{941B0B1B-5D46-4E9D-8149-4405D4CAE9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941B0B1B-5D46-4E9D-8149-4405D4CAE9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941B0B1B-5D46-4E9D-8149-4405D4CAE9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941B0B1B-5D46-4E9D-8149-4405D4CAE9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1A09DE-7335-455B-A834-CC4DCF2CDA0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1A09DE-7335-455B-A834-CC4DCF2CDA0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1A09DE-7335-455B-A834-CC4DCF2CDA0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1A09DE-7335-455B-A834-CC4DCF2CDA0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B55D169B-C90D-48CC-8B2E-207A9A4FCEFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55D169B-C90D-48CC-8B2E-207A9A4FCEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55D169B-C90D-48CC-8B2E-207A9A4FCEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55D169B-C90D-48CC-8B2E-207A9A4FCEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB53220B-274C-40CC-9A58-375467A5FF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB53220B-274C-40CC-9A58-375467A5FF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB53220B-274C-40CC-9A58-375467A5FF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB53220B-274C-40CC-9A58-375467A5FF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ED05D3-DEFA-439A-B6BB-6175C50CD156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ED05D3-DEFA-439A-B6BB-6175C50CD156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ED05D3-DEFA-439A-B6BB-6175C50CD156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ED05D3-DEFA-439A-B6BB-6175C50CD156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B81E9CE-3447-4029-B5A5-F59539C15FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B81E9CE-3447-4029-B5A5-F59539C15FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B81E9CE-3447-4029-B5A5-F59539C15FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B81E9CE-3447-4029-B5A5-F59539C15FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

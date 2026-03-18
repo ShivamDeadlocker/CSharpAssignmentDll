@@ -1,0 +1,5 @@
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\Ecommerce\bin\Debug\Ecommerce.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\Ecommerce\bin\Debug\Ecommerce.pdb
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\Ecommerce\obj\Debug\Ecommerce.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\Assignment_8\Ecommerce\obj\Debug\Ecommerce.pdb

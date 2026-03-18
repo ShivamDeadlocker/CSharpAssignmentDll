@@ -1,0 +1,5 @@
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\DelegateAndEvents(Using EventsArgs)\VideoEncoderPublisher\bin\Debug\VideoEncoderPublisher.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\DelegateAndEvents(Using EventsArgs)\VideoEncoderPublisher\bin\Debug\VideoEncoderPublisher.pdb
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\DelegateAndEvents(Using EventsArgs)\VideoEncoderPublisher\obj\Debug\VideoEncoderPublisher.csprojResolveAssemblyReference.cache
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\DelegateAndEvents(Using EventsArgs)\VideoEncoderPublisher\obj\Debug\VideoEncoderPublisher.dll
+C:\Users\Shivam.Prajapati\Documents\Visual Studio 2015\Projects\DelegateAndEvents(Using EventsArgs)\VideoEncoderPublisher\obj\Debug\VideoEncoderPublisher.pdb
